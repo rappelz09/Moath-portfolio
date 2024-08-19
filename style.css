@@ -30,7 +30,7 @@ a,
 
 nav,
 .nav-links {
-  display: sticky;
+  display: fixed;
 }
 
 nav {
